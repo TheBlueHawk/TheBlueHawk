@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "TheBlueHawk",
+    "description": "",
+    "home_page_url": "https://thebluehawk.github.io/TheBlueHawk",
+    "feed_url": "https://thebluehawk.github.io/TheBlueHawk/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Kevin Blin"
+    },
+    "items": [
+        {
+            "id": "https://thebluehawk.github.io/TheBlueHawk/trust-in-science.html",
+            "url": "https://thebluehawk.github.io/TheBlueHawk/trust-in-science.html",
+            "title": "Trust in Science",
+            "summary": "Lorem Ipsum",
+            "content_html": "<p>Lorem Ipsum</p>",
+            "author": {
+                "name": "Kevin Blin"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-02-14T18:42:12+01:00",
+            "date_modified": "2022-02-14T18:42:12+01:00"
+        }
+    ]
+}

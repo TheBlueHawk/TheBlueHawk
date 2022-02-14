@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>TheBlueHawk</title>
+    <link href="https://thebluehawk.github.io/TheBlueHawk/feed.xml" rel="self" />
+    <link href="https://thebluehawk.github.io/TheBlueHawk" />
+    <updated>2022-02-14T18:42:12+01:00</updated>
+    <author>
+        <name>Kevin Blin</name>
+    </author>
+    <id>https://thebluehawk.github.io/TheBlueHawk</id>
+
+    <entry>
+        <title>Trust in Science</title>
+        <author>
+            <name>Kevin Blin</name>
+        </author>
+        <link href="https://thebluehawk.github.io/TheBlueHawk/trust-in-science.html"/>
+        <id>https://thebluehawk.github.io/TheBlueHawk/trust-in-science.html</id>
+
+        <updated>2022-02-14T18:42:12+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem Ipsum
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Lorem Ipsum</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
