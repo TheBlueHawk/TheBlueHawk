@@ -15,13 +15,14 @@
             "title": "Welcome introduction",
             "summary": " Website purpose, main ideas The idea of a personal website was born for two main reasons: organise and structure some of my thought on various topics, and as a way to communicate to the wide public some useful concepts that I consider essential for&hellip;",
             "content_html": "\n    <h2 id=\"website-purpose-main-ideas\">\n      Website purpose, main ideas\n    </h2>\n\n  <p>\n    The idea of a personal website was born for two main reasons: organise and structure some of my thought on various topics, and as a way to communicate to the wide public some useful concepts that I consider essential for understanding the world we live in and t have a grasp of how it will change in the near future. <br>Topics could fall in my direct field of expertise of computer science and mathematics, for example algorithms, machine learning, optimisation, artificial intelligence safety, probabilities, information theory, statistics, … or in any other field in which I have a keen interest like epistemology, philosophy, psychology, economics: bayesian reasoning, scientific method, consequentialism, fairness, cognitive biases, rationality, game theory and global development are some of these interdisciplinary topics.  <br>I also won’t be shy of writing on debates that I consider of public utility, however I’ll take as much care as I can of separating factual informations from my personal takes to leave space to the reader to form his how opinion while at the same time understand my position on the matter. <br>The aim of all these short essays is to provide an overview of the topic explained or debated, I have no ambitions in writing an exhaustive content and thus I’ll ensure to provide links for further readings on the topic as well as the sources of information for transparency. I won’t follow any particular schedule or order to publish new articles, but eventually thanks to the embedded tags and hyperlink it should be easy to browse the full content of the website. <br>A comment section below each article is under consideration, as well as a section dedicated to book reviews. <br>That’s all for today, I hope readers will appreciate the content and discovered something new or from a different perspective!\n  </p>\n\n  <p>\n    \n  </p>",
+            "image": "https://thebluehawk.github.io/TheBlueHawk/media/posts/2/2017_12_31_Bing_ja-JP.jpg",
             "author": {
                 "name": "Kevin Blin"
             },
             "tags": [
             ],
             "date_published": "2022-02-23T16:24:51+01:00",
-            "date_modified": "2022-02-23T16:25:39+01:00"
+            "date_modified": "2022-02-23T16:55:21+01:00"
         }
     ]
 }
